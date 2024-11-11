@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning Intern and Software Engineering Student 💻. Working on proficiency in various platforms & Programming languages.
+Software Engineering 💻. Working on proficiency in various platforms & Programming languages specially in Django and Machine Learning.
 
 
 ## 🌐 Socials:
